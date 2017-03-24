@@ -2,5 +2,3 @@ this is just
 a random
 text about me that 
 i am writing.
-
-Some text
